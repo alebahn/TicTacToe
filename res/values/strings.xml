@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="x_turn">X\'s turn</string>
+    <string name="o_turn">O\'s turn</string>
+    <string name="instruction">Select a location to play</string>
+    <string name="x_wins">X wins!</string>
+    <string name="o_wins">O wins!</string>
+    <string name="tie">Tie!</string>
+    <string name="new_game">New Game</string>
+</resources>
