@@ -1,7 +1,7 @@
 package lebahn.aaron;
 
 import java.util.ArrayList;
-
+//testing git
 public class GameTree {
 	private int [] board;
 	private ArrayList<GameTree> children;
